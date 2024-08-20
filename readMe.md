@@ -33,7 +33,7 @@ A modern web browser
 
 **Clone the Repository**:
 
-git clone https://github.com/yourusername/zcoder.git
+git clone https://github.com/Prajyot1901/Project-Zcoder.git
 
 cd zcoder
 
