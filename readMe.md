@@ -5,6 +5,7 @@ Zcoder is a comprehensive platform designed for competitive programmers and deve
 Additionally, Zcoder provides a feature-rich environment for saving and managing coding problems from various websites. Users can save the questions along with their answers, and choose to make them public or private. Public questions are shared with the community, allowing others to view, comment, and discuss them. Zcoder also includes a contest calendar to keep track of upcoming coding competitions and a feed that showcases the top public coding problems shared by users on the platform.
 
 **Features**
+
 User Authentication and Profiles
 User Registration and Login: Secure authentication system allowing users to create an account and log in.
 User Profiles: Each user has a personalized profile where they can save information such as:
@@ -18,21 +19,30 @@ User Profiles: Each user has a personalized profile where they can save informat
 **Public Problems**: Visible to all users on the platform. Others can comment and discuss these problems.
 **Private Problems**: Visible only to the user who created them.
 **Dashboard**
+
 **Contest Calendar**: Users can view and add upcoming coding contests to a centralized calendar.
 **Public Problem Feed**: Displays the top public coding problems shared by users on the platform, allowing for community engagement and learning.
 **Getting Started**
 **Prerequisites**
+
 Node.js
 npm (Node Package Manager)
 MongoDB (or any preferred database system)
 A modern web browser
 **Installation**
+
 **Clone the Repository**:
+
 git clone https://github.com/yourusername/zcoder.git
+
 cd zcoder
+
 **Install Dependencies**:
+
 npm install
+
 **Set Up Environment Variables**:
+
 Create a .env file in the root directory and configure the necessary environment variables (e.g., database connection string, authentication secret keys).
 
 **Run the Application**:
